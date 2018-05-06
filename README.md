@@ -12,3 +12,5 @@ i.html 是压缩过的代码
 将i.html 这个页面文件 上传到你的虚拟空间中 用以下方式带参数填入返利机器人的链接中
 
 http://xxxx.com/i.html?taowords={淘口令}&url={返利链接}&image={图片地址}
+
+![image](https://github.com/shan333chao/fanlirobert/blob/master/demo.jpg)
