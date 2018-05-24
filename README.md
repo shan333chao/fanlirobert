@@ -13,4 +13,11 @@ i.html 是压缩过的代码
 
 http://xxxx.com/i.html?taowords={淘口令}&url={返利链接}&image={图片地址}
 
+## 2018-05-24 更新
+
+新版的n.html 页面使用全新的口令提取方式，对ios9 进行兼容处理，去除了pc版商品链接，升级了clipboard 到2.0
+
+http://xxxx.com/n.html#/{淘口令}/{图片地址}
+
+
 ![image](https://github.com/shan333chao/fanlirobert/blob/master/demo.jpg)
